@@ -8,7 +8,8 @@ Python is a versatile, high-level programming language known for its simplicity 
 
  Here's a brief overview of what you'll find in this repository:
 
-- **Basics**: Fundamental Python programs covering data types, control structures, functions, and basic input/output operations.
+- **Basics**: Fundamental Python programs covering variables, data types, operators,Number system, import modules.
+- **Intermediate**: Intermediate levels covering control structures, Arrays, functions, Anonymous functions.
 - **Advanced**: Advanced Python programs covering topics such as file handling, regular expressions, error handling, and more.
 - **Object-Oriented Programming (OOP)**: Programs demonstrating OOP concepts such as classes, objects, inheritance, polymorphism, and encapsulation.
 - **Projects**: Real-world projects to apply your Python skills and enhance your understanding.
