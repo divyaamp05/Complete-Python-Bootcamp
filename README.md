@@ -11,8 +11,8 @@ Python is a versatile, high-level programming language known for its simplicity 
 
 - **Basics**: Fundamental Python programs covering variables, data types, operators,Number system, import modules.
 - **Intermediate**: Intermediate levels covering control structures, Arrays, functions, Anonymous functions.
-- **Advanced**: Advanced Python programs covering topics such as Decorators, Modules, Special Variable names.
-- **Object-Oriented Programming (OOP)**: Programs demonstrating OOP concepts such as classes, objects, inheritance, polymorphism, and encapsulation.
+- **Advanced**: Advanced Python programs covering topics such as Decorators, Modules, Special Variable names, File Handling.
+- **Object-Oriented Programming (OOP)**: Programs demonstrating OOP concepts such as classes, objects, inheritance, polymorphism, Abstraction and encapsulation.
 - **Projects**: Real-world projects to apply your Python skills and enhance your understanding.
 
 ## Contributions
